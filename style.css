@@ -1,0 +1,37 @@
+* {
+
+}
+body {
+    height: 2000px;
+    position: relative;
+    left: 700px;
+    /* bottom: 50%; */
+}
+.first-page {
+    /* border: solid 3px black; */
+}
+
+.container {
+    
+}
+.text-1 {
+    color: orangered;
+    font-family: cursive;
+    font-size: 105px;
+}
+button {
+    background-color: #1d9bf0;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px 26px;
+    border-radius: 20px;
+    border: none;
+    transition: 0.15s;
+    transition: all ease-in-out 0.4s;
+}
+button:hover {
+    cursor: pointer;
+    background-color: rgba(29, 155, 240, 0.90);
+    color: orangered;
+}
